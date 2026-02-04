@@ -13,4 +13,4 @@
 
 [Markdown Guide] git clone https://github.com/username/myrepo.git
 
-![alt text](https://www.markdownguide.org/assets/images/ducktux.png)
+![alt text](https://www.markdownguide.org/assets/images/tux.png)
